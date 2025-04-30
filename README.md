@@ -30,6 +30,7 @@
 
 <h3 align="left">🛠️ Tools, Tech & Languages</h3>
 <p align="center">
+  <a href="https://wazuh.com" target="_blank"> <img src="https://wazuh.com/images/logo-wazuh.svg" alt="Wazuh" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>&nbsp;&nbsp;
