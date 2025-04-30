@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalidhussainn</h1>
+<h1 align="center">Hi 👋, I'm Khalid hussain</h1>
 <h3 align="center">🔐 Security-Focused Developer | 🤖 Machine Learning Enthusiast</h3>
 
 <hr>
