@@ -34,8 +34,6 @@
   <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.elastic.co/kibana" target="_blank"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>&nbsp;&nbsp;
-</p>
-
 <p align="center"><b>Tools:</b> Wazuh, Elastic Stack, Kibana, Git</p>
 
 ---
