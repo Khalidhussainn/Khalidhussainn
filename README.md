@@ -28,8 +28,7 @@
 
 <h2 align="center">🛠️ Tools</h2>
 <p align="center">
-  <a href="https://wazuh.com" target="_blank">
-    <img src="https://wazuh.com/wp-content/uploads/2022/02/Wazuh-2022-Logo.svg](https://commons.wikimedia.org/wiki/Special:FilePath/Wazuh-2022-Logo.svg" alt="Wazuh" width="40" height="40"/>
+  <a href="https://wazuh.com" target="_blank"> <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Wazuh-2022-Logo.svg" alt="Wazuh" width="40" height="40"/></a>&nbsp;&nbsp;
   </a>
   <a href="https://www.elastic.co" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="ElasticSearch" width="40" height="40"/>
