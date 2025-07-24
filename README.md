@@ -19,7 +19,7 @@
 
 ### 🌐 Connect with me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/khalid-hussainxyz/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="30" height="30"/>
   </a>
 </p>
