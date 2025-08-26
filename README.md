@@ -135,7 +135,7 @@
 - Tools & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,git,github,docker,figma,xd,idea,vscode,postman,linux,metasploitable" />
   </a>
 </p>
 
