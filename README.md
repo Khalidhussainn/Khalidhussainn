@@ -41,9 +41,15 @@
 
 - 💬 Ask me about **Wazuh, File Integrity Monitoring (FIM), ELK Stack, ML for Cybersecurity, Data Preprocessing**
 
-- 📫 How to reach me **khalid.hussain@example.com**
+- 📫 How to reach me **khalidhussain.bsit.auk@gmail.com**
 
-- 📄 Know about my experiences [My Portfolio](https://github.com/Khalidhussainn)
+- 📄 Know about my experiences [My Portfolio](https://github.com/Khalidhussainn/Khalidhussainn)
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@Bit_by_Byte)
+
+- 🎨 Check out my designs on [Behance](https://www.behance.net/khalidhussainxyz)
+
+- 🏆 **Google Cybersecurity Professional Certificate V2** - [View Credential](https://www.credly.com/badges/6d2ee123-12f2-45a4-945b-664de7e8d8a6/print)
 
 - ⚡ Fun fact **I believe AI can revolutionize cybersecurity defense mechanisms**
 
@@ -51,6 +57,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/khalid-hussainxyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khalid hussain" height="30" width="40" /></a>
+<a href="https://www.instagram.com/khalid.hussainxyz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalid hussain" height="30" width="40" /></a>
+<a href="https://www.facebook.com/khalid.hussainxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khalid hussain" height="30" width="40" /></a>
+<a href="https://medium.com/@Bit_by_Byte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="khalid hussain" height="30" width="40" /></a>
+<a href="https://www.behance.net/khalidhussainxyz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="khalid hussain" height="30" width="40" /></a>
+</p>
+<br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<h3 align="left">🏅 Certifications:</h3>
+<p align="left">
+<a href="https://www.credly.com/badges/6d2ee123-12f2-45a4-945b-664de7e8d8a6/print" target="blank">
+<img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="80" height="80"/>
+</a>
 </p>
 <br>
 
