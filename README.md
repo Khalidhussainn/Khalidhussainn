@@ -75,6 +75,9 @@
 <a href="https://www.credly.com/badges/6d2ee123-12f2-45a4-945b-664de7e8d8a6/print" target="blank">
 <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="80" height="80"/>
 </a>
+<a href="https://tryhackme.com/p/khalidhussainXyz" target="blank">
+<img src="https://tryhackme-badges.s3.amazonaws.com/khalidhussainXyz.png" alt="TryHackMe Profile" width="80" height="80"/>
+</a>
 </p>
 <br>
 
