@@ -163,23 +163,6 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Khalidhussainn&show_icons=true&theme=radical&hide_border=true" alt="Khalid's GitHub Stats" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khalidhussainn&theme=radical&hide_border=true" alt="Khalid's GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khalidhussainn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <br>
 <p align="right">Created with 💕 by <a href="https://github.com/Khalidhussainn">Khalid Hussain</a></p>
