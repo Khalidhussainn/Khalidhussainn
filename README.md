@@ -16,10 +16,11 @@
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <br>
@@ -27,7 +28,10 @@
 <div align="center">
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="50" height="50" />
 </div>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -35,11 +39,11 @@
 
 - 🔭 I'm currently working on **AI-Powered Anomaly Detection Using Wazuh and Elastic Stack**
 
-- 🌱 I'm currently learning **Log-based anomaly detection, ML model deployment pipelines**
+- 🌱 I'm currently learning **Log-based anomaly detection, ML model deployment pipelines, DevOps**
 
 - 👨‍💻 All of my projects are available at [Khalid's workspace](https://github.com/Khalidhussainn)
 
-- 💬 Ask me about **Wazuh, File Integrity Monitoring (FIM), ELK Stack, ML for Cybersecurity, Data Preprocessing**
+- 💬 Ask me about **Wazuh, File Integrity Monitoring (FIM), ELK Stack, ML for Cybersecurity, Data Preprocessing, Java, Python, PHP and NodeJS**
 
 - 📫 How to reach me **khalidhussain.bsit.auk@gmail.com**
 
@@ -91,11 +95,22 @@
   </a>
 </p>
 
-- Programming & ML
+- Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,php" />
   </a>
+</p>
+
+- Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" />
+  </a>
+</p>
+
+- Machine Learning & Data Science
+<p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
@@ -105,7 +120,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
   </a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
 </p>
@@ -113,14 +128,14 @@
 - Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,docker" />
+    <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,firebase,cloudflare" />
   </a>
 </p>
 
 - Tools & Systems
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma" />
   </a>
 </p>
 
