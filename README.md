@@ -76,7 +76,7 @@
     <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" style="width: 80px; height: 80px;" />
   </a>
   <a href="https://tryhackme.com/p/khalidhussainXyz" target="_blank" rel="noopener noreferrer">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714223" alt="TryHackMe Profile Badge" style="width: 80px; height: 80px;" />
+    <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714223" style="border: none; width: 80px; height: 80px;"></iframe>
   </a>
 </div>
 <br>
