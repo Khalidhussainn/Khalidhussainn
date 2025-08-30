@@ -70,15 +70,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">🏅 Certifications:</h3>
-<p align="left">
-<a href="https://www.credly.com/badges/6d2ee123-12f2-45a4-945b-664de7e8d8a6/print" target="blank">
-<img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" width="80" height="80"/>
-</a>
-<a href="https://tryhackme.com/p/khalidhussainXyz" target="blank">
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714223" style='border:none;'></iframe>
-</a>
-</p>
+<h3 style="text-align: left;">🏅 Certifications</h3>
+<div style="display: flex; align-items: center; gap: 20px; flex-wrap: wrap;">
+  <a href="https://www.credly.com/badges/6d2ee123-12f2-45a4-945b-664de7e8d8a6" target="_blank" rel="noopener noreferrer">
+    <img src="https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png" alt="Google Cybersecurity Professional Certificate" style="width: 80px; height: 80px;" />
+  </a>
+  <a href="https://tryhackme.com/p/khalidhussainXyz" target="_blank" rel="noopener noreferrer">
+    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3714223" alt="TryHackMe Profile Badge" style="width: 80px; height: 80px;" />
+  </a>
+</div>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
